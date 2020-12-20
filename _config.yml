@@ -1,3 +1,18 @@
 title: Lil Lily
 description: Hi, Welcome To My Website
 theme: jekyll-theme-cayman
+locale:       "en"
+
+author:
+  name:       Lil Lily
+  url:        https://wowlillily.github.io
+
+gems:
+  - jekyll-paginate
+---
+permalink: /404.html
+---
+github:
+  is_project_page: false
+header_pages:
+  - index.md
